@@ -1,0 +1,36 @@
+body {
+    background: white;
+    color: white;
+    font-family: sans-serif;
+}
+
+.card {
+    width: 400px;
+    background: gray;
+    margin: 16px ;
+    padding: 8px;
+
+}
+
+.title {
+    margin-bottom: 8px;
+    font-size: 24px;
+    padding: 8px;
+}
+
+.ingredients,
+.instructions {
+    margin-bottom: 8px;
+    padding: 16px 8px;
+}
+
+.button-contianer {
+    text-align: center;
+    padding: 8px;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+}
